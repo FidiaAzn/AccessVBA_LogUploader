@@ -32,3 +32,4 @@ Data di accesso: (2025-11-14 19:36:22)  User: (anton) Fullname: (Antonio Zannoli
 Data di accesso: (2025-11-14 19:37:28)  User: (anton) Fullname: (Antonio Zannoli)  Dominio: (HP17) App 25.10.30 [OK-Authorized]
 Data di accesso: (2025-11-14 19:40:12)  User: (anton) Fullname: (Antonio Zannoli)  Dominio: (HP17) App 25.10.30 [OK-Authorized]
 Data di accesso: (2025-11-14 19:40:28)  User: (anton) Fullname: (Antonio Zannoli)  Dominio: (HP17) App 25.10.30 [OK-Authorized]
+Data di accesso: (2025-11-14 22:19:17)  User: (anton) Fullname: (Antonio Zannoli)  Dominio: (HP17) App 25.10.30 [OK-Authorized]
