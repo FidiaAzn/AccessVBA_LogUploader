@@ -28,3 +28,4 @@ Data di accesso: (2025-11-14 16:11:14)  User: (a.zannoli) Fullname: (Antonio Zan
 Data di accesso: (2025-11-14 16:16:02)  User: (a.zannoli) Fullname: (Antonio Zannoli)  Dominio: (FIDIA) App 25.10.30 [OK-Authorized]
 Data di accesso: (2025-11-14 19:35:40)  User: (anton) Fullname: (Antonio Zannoli)  Dominio: (HP17) App 25.10.30 [OK-Authorized]
 Data di accesso: (2025-11-14 19:36:01)  User: (anton) Fullname: (Antonio Zannoli)  Dominio: (HP17) App 25.10.30 [OK-Authorized]
+Data di accesso: (2025-11-14 19:36:22)  User: (anton) Fullname: (Antonio Zannoli)  Dominio: (HP17) App 25.10.30 [OK-Authorized]
