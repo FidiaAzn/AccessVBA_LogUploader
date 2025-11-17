@@ -13,3 +13,4 @@ Data di accesso: (2025-11-17 10:51:36)  User: (a.zannoli) Fullname: (Antonio Zan
 Data di accesso: (2025-11-17 10:52:10)  User: (a.zannoli) Fullname: (Antonio Zannoli)  Dominio: (FIDIA) App 251120 [OK-Authorized]
 Data di accesso: (2025-11-17 10:52:37)  User: (a.zannoli) Fullname: (Antonio Zannoli)  Dominio: (FIDIA) App 251120 [OK-Authorized]
 Data di accesso: (2025-11-17 10:53:00)  User: (a.zannoli) Fullname: (Antonio Zannoli)  Dominio: (FIDIA) App 251120 [OK-Authorized]
+Data di accesso: (2025-11-17 10:56:21)  User: (a.zannoli) Fullname: (Antonio Zannoli)  Dominio: (FIDIA) App 251120 [OK-Authorized]
