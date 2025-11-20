@@ -2,3 +2,4 @@ Data di accesso: (2025-11-18 07:56:32)  User: (m.peroni) Fullname: (Matteo Peron
 Data di accesso: (2025-11-18 08:15:40)  User: (a.zannoli) Fullname: (Antonio Zannoli)  Dominio: (FIDIA) App 251116 [OK-Authorized]
 
 Data di accesso: (2025-11-20 08:43:52)  User: (a.zannoli) Fullname: (Antonio Zannoli)  Dominio: (FIDIA) App 251116 [OK-Authorized]
+Data di accesso: (2025-11-20 08:50:21)  User: (a.zannoli) Fullname: (Antonio Zannoli)  Dominio: (FIDIA) App 251116 [OK-Authorized]
