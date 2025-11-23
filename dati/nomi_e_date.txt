@@ -4,3 +4,4 @@ Data di accesso: (2025-11-18 07:56:32)  User: (m.peroni) Fullname: (Matteo Peron
 Data di accesso: (2025-11-23 17:45:12)  User: (anton) Fullname: (Antonio Zannoli)  Dominio: (HP17) App 251123 [OK-Authorized]
 Data di accesso: (2025-11-23 17:45:28)  User: (anton) Fullname: (Antonio Zannoli)  Dominio: (HP17) App 251123 [OK-Authorized]
 Data di accesso: (2025-11-23 17:49:17)  User: (anton) Fullname: (Antonio Zannoli)  Dominio: (HP17) App 251123 [OK-Authorized]
+Data di accesso: (2025-11-23 17:49:49)  User: (anton) Fullname: (Antonio Zannoli)  Dominio: (HP17) App 251123 [OK-Authorized]
