@@ -4,3 +4,4 @@ Data di accesso: (2025-11-24 15:02:34)  User: (m.schirru) Fullname: (Marco Schir
 Data di accesso: (2025-11-25 11:52:19)  User: (a.zannoli) Fullname: (Antonio Zannoli)  Dominio: (FIDIA) App 251123 [OK-Authorized]
 
 Data di accesso: (2025-11-25 16:14:13)  User: (a.zannoli) Fullname: (Antonio Zannoli)  Dominio: (FIDIA) App 251123 [OK-Authorized]
+Data di accesso: (2025-11-26 09:23:41)  User: (a.zannoli) Fullname: (Antonio Zannoli)  Dominio: (FIDIA) App 251123 [OK-Authorized]
